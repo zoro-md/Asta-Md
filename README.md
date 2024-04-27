@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VaPGt3QEwEjpBXT4Rv0z">
     <img alt="Zoro-Md" height="300" src="https://telegra.ph/file/4abb5e925d4ffeedd1a18.jpg">
-    <h1 align="center">ASTA-MD 2.5.O</h1>
+    <h1 align="center">ZORO MD 2.5.O</h1>
   </a>
 </p>
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 ####  
-ASTA-MD- Simple Multi Device whatsapp bot.
+ZORO-MD- Simple Multi Device whatsapp bot.
 
 ***
 
@@ -103,7 +103,7 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
     <br>
 <p align="center"><a href="https://repl.it/github/Astropeda/Asta-Md"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
-- Star ⭐ the repo if you like ASTA-MD.
+- Star ⭐ the repo if you like ZORO-MD.
 
    
 ## WARNING
