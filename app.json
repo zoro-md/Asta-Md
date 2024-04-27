@@ -1,8 +1,8 @@
 {
-  "name": "asta-md@2.5.0",
+  "name": "zoro-md@2.5.0",
   "description": "Simple WhatsApp Bot",
   "logo": "https://github.com/Astropeda/Asta-Md/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["Asta-Md", "asta", "Asta-Bot"],
+  "keywords": ["Zoro-Md", "asta", "Asta-Bot"],
   "success_url": "/",
   "stack": "container",
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "ᴀsᴛᴀ-ᴍᴅ"
+      "value": "zoro-md"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
